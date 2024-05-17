@@ -1,5 +1,5 @@
 # Appreciate-App-Project
-
+```plantuml1
 @startuml
 entity user {
   user_id : int auto_increment not_null <PK>
@@ -129,3 +129,5 @@ note on link
 report 
 end note
 @enduml
+
+```
